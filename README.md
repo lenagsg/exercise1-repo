@@ -1,5 +1,4 @@
 # exercise1-repo
-Repo for exercise1
 
 Exercises: Git and GitHub
 
