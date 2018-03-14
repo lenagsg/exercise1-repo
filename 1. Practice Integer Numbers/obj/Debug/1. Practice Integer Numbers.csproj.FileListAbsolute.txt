@@ -1,0 +1,7 @@
+C:\Users\Lena\source\repos\Exercises Data Types and Variables\1. Practice Integer Numbers\obj\Debug\1. Practice Integer Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Lena\source\repos\Exercises Data Types and Variables\1. Practice Integer Numbers\obj\Debug\1. Practice Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\Exercises Data Types and Variables\1. Practice Integer Numbers\bin\Debug\_1.Practice_Integer_Numbers.exe.config
+C:\Users\Lena\source\repos\Exercises Data Types and Variables\1. Practice Integer Numbers\bin\Debug\_1.Practice_Integer_Numbers.exe
+C:\Users\Lena\source\repos\Exercises Data Types and Variables\1. Practice Integer Numbers\bin\Debug\_1.Practice_Integer_Numbers.pdb
+C:\Users\Lena\source\repos\Exercises Data Types and Variables\1. Practice Integer Numbers\obj\Debug\_1.Practice_Integer_Numbers.exe
+C:\Users\Lena\source\repos\Exercises Data Types and Variables\1. Practice Integer Numbers\obj\Debug\_1.Practice_Integer_Numbers.pdb
